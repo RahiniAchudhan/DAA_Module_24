@@ -1,5 +1,5 @@
 # EX 6B KNAPSACK PROBLEM
-## DATE:
+## DATE: 29/04/2025
 ## AIM:
 To demonstrate a python program using dynamic programming for 0/1 knapsack problem.
 
