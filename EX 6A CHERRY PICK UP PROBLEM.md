@@ -14,11 +14,16 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1.Start at (0, 0), move to (n-1, n-1) (only right or down)
+
+2.Then return back to (0, 0) (only left or up)
+
+3.Can pass through cells with 0 or 1
+
+4.Can pick cherries (1) only once (cell becomes 0 after pick)
+
+5.Avoid thorns (-1) 
+  
 
 ## Program:
 ```
